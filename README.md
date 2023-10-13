@@ -2,7 +2,8 @@
     <a href="https://github.com/NeptUser">Olá, eu sou Pedro</a>
 </h1>
 
-Sou um estudante de Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN). Tenho bastante interesse em projetos que envolvem programação, robótica e desenvolvimento de hardware.
+> Sou um estudante de Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN). Tenho bastante interesse em projetos que envolvem programação, robótica e desenvolvimento de hardware.
+> Além da graduação, atualmente estou realizando as manutenções nas impressoras 3D do Laboratório de Automação e Robótica e operacionalizando um tribômetro CNC no Laboratório de Manofatura, sendo extensão e pesquisa respectivamente e ambos os trabalhos são desenvolvidos na UFRN.
 
 <div align="center">
   <a href="https://www.instagram.com/pedrofeelippe/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
