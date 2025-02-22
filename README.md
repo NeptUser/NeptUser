@@ -25,11 +25,11 @@
     <a href="https://github.com/NeptUser">Alguns projetos que contribuo</a>
 </h2>
 
-[<img src="https://avatars.githubusercontent.com/u/107939788?v=4" width=115><br><sub>Sensar IoT</sub>](.) | [<img src="https://www.instagram.com/p/Cw8AvOmrylQ/?img" width=115><br><sub>Monitoria de Química Geral</sub>](https://www.instagram.com/mqgect/) | [<img src="https://github.com/Natalnet/ura-codes/blob/master/imagens/ura.png" width=115><br><sub>Um Robo por Aluno</sub>](https://github.com/Natalnet/ura-codes#um-rob%C3%B4-por-aluno) | [<img src="https://media.licdn.com/dms/image/C510BAQGgEaNxFpSBTQ/company-logo_200_200/0/1519942224527?e=1705536000&v=beta&t=qnjBdz8mouD38gZ9ey12csys32_Bk5ca_yGBTa43bAs" width=115><br><sub>Potiguar Rocket Design</sub>](https://www.linkedin.com/company/potiguarrocketdesign/) |
-| :---: | :---: | :---: | :---: |
+[<img src="https://avatars.githubusercontent.com/u/107939788?v=4" width=115><br><sub>Sensar IoT</sub>](.) | [<img src="https://media.licdn.com/dms/image/C510BAQGgEaNxFpSBTQ/company-logo_200_200/0/1519942224527?e=1705536000&v=beta&t=qnjBdz8mouD38gZ9ey12csys32_Bk5ca_yGBTa43bAs" width=115><br><sub>Potiguar Rocket Design</sub>](https://avatars.githubusercontent.com/u/56888515?s=200&v=4) |
+| :---: | :---: |
 
 <h2 align="left">
-    <a href="https://github.com/NeptUser">Linguagens de programação que uso</a>
+    <a href="https://github.com/NeptUser">Tecnologias já utilizadas</a>
 </h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width=115>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=115> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=115> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=115> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=115> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width=115> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=115>
