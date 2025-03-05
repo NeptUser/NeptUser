@@ -32,11 +32,8 @@
     <a href="https://github.com/NeptUser">Tecnologias e Softwares que utilizo</a>
 </h2>
 
-<h3 align="left">
-    <a href="https://github.com/NeptUser">Embarcados e IOT</a>
-</h3>
 <p align="center">
-  <a href="https://github.com/NeptUser">
-    <img src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8eafc36d74023fb1fadcc2e82d353189071f2dd/svg/mqtt-ver.svg" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,cpp,python,latex,react" />
   </a>
 </p>
