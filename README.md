@@ -35,4 +35,8 @@
 <h3 align="left">
     <a href="https://github.com/NeptUser">Embarcados e IOT</a>
 </h3>
-<img src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8eafc36d74023fb1fadcc2e82d353189071f2dd/svg/mqtt-ver.svg" width=100><br><sub>MQTT</sub>
+<p align="center">
+  <a href="https://github.com/NeptUser">
+    <img src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/a8eafc36d74023fb1fadcc2e82d353189071f2dd/svg/mqtt-ver.svg" />
+  </a>
+</p>
